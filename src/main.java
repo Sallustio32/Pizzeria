@@ -29,7 +29,7 @@ public class main {
 		System.out.println("3)Pizza economica");
 		System.out.println("4)Trova pizza");
 		System.out.println("Scegli dal menu");
-		System.out.println("Ehs");
+		System.out.println("Eha");
 		user=input.nextInt();
 		switch(user) {
 		case 1:
